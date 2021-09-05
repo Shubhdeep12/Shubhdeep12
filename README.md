@@ -2,9 +2,9 @@
 
 <p>
 <em>  
-I'm a Software Developer who acknowledges to <b>Prove</b> himself by focusing in on <b>Improving</b> himself.
+I'm a Software Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> who acknowledges to <b>Prove</b> himself by focusing in on <b>Improving</b> himself 💪.
 
-2020 Graduate from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication....
+2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication....
 
 At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
 </em>
@@ -31,4 +31,4 @@ At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
 <a href="https://github.com/Shubhdeep12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep12&theme=dark&hide_langs_below=1" />
 </a>
-<p align="right"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
