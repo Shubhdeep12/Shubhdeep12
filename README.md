@@ -12,7 +12,7 @@ At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
 </p>
 <br>
 
-### Skills
+### Technologies & Frameworks
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -26,3 +26,8 @@ At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<br>
+<a href="https://github.com/Shubhdeep12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep12&theme=dark&hide_langs_below=1" />
+</a>
