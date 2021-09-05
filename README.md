@@ -2,17 +2,17 @@
 
 <p>
 <em>  
-I'm a Software Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> who acknowledges to <b>Prove</b> himself by focusing in on <b>Improving</b> himself 💪.
+I'm a Software Developer<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Developer.gif" width="40px"> who acknowledges to <b>Prove</b> himself by focusing in on <b>Improving</b> himself 💪.
 
 2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication🔥🔥🔥
 
-At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="40px">....
+At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Designer.gif" width="40px">....
 </em>
 
 </p>
 <br>
 
-### Technologies & Frameworks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+### Technologies & Frameworks <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Rocket.gif" width="18px">
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -33,11 +33,12 @@ At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="http
 </a>
 
 <br>
+<br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shubhdeepchhabra/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/_shubhdeep) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/shubhdeep_chhabra/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shubhdeep12) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:chhabrashubhdeep@gmail.com) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shubhdeepchhabra/) | [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/_shubhdeep) | [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/shubhdeep_chhabra/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shubhdeep12) | [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:chhabrashubhdeep@gmail.com) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
