@@ -6,7 +6,7 @@ I'm a Software Developer<img src="https://github.com/TheDudeThatCode/TheDudeThat
 
 2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication🔥🔥🔥
 
-At present <b>Associate Software Engineer</b> in <b>Accenture</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="28px">....
+At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="40px">....
 </em>
 
 </p>
