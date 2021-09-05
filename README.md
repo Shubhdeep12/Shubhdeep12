@@ -9,8 +9,7 @@ I'm a Software Developer who acknowledges to <b>Prove</b> himself by focusing in
 At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
 </em>
 
+</p>
 <br>
 
 ### Technologies & Tools
-
-</p>
