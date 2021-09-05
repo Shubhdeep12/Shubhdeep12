@@ -31,3 +31,4 @@ At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
 <a href="https://github.com/Shubhdeep12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep12&theme=dark&hide_langs_below=1" />
 </a>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
