@@ -4,15 +4,15 @@
 <em>  
 I'm a Software Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> who acknowledges to <b>Prove</b> himself by focusing in on <b>Improving</b> himself 💪.
 
-2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication `:fire:`....
+2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication🔥🔥🔥
 
-At present <b>Associate Software</b> Engineer in <b>Accenture</b>....
+At present <b>Associate Software Engineer</b> in <b>Accenture</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="28px">....
 </em>
 
 </p>
 <br>
 
-### Technologies & Frameworks
+### Technologies & Frameworks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
