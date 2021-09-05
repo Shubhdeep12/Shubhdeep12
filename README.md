@@ -31,4 +31,13 @@ At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="http
 <a href="https://github.com/Shubhdeep12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep12&theme=dark&hide_langs_below=1" />
 </a>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
+
+<br>
+
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shubhdeepchhabra/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/_shubhdeep) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/shubhdeep_chhabra/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shubhdeep12) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:chhabrashubhdeep@gmail.com) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
