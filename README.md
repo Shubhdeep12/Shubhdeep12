@@ -10,6 +10,8 @@ At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="http
 </em>
 
 </p>
+
+[My Resume](https://drive.google.com/file/d/1mgEcszg2OHHUJZ0INNF3hVZXZUVh53oh/view?usp=sharing)
 <br>
 
 ### Technologies & Frameworks <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Rocket.gif" width="18px">
