@@ -44,3 +44,5 @@ At present <b>Associate Software Engineer</b> in <b>Accenture</b> <img src="http
 
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandan-wewhare" alt="nandan-wewhare" /></a> </p>
