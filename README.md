@@ -11,7 +11,7 @@ At present <b>Software Engineer 1</b> at <b>Auzmor</b> <img src="https://github.
 
 </p>
 
-[My Resume](https://drive.google.com/file/d/1rxMnr1ZeCIQRL5AwI3VOARTrW4s-MabJ/view?usp=sharing)
+
 <br>
 
 ### Technologies & Frameworks <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Rocket.gif" width="18px">
