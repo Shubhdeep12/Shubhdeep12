@@ -45,4 +45,4 @@ At present <b>Software Engineer 1</b> at <b>Auzmor</b> <img src="https://github.
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhdeep12" alt="nandan-wewhare" /></a> </p>
+![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&theme=shades-of-purple&show_icons=true&hide_border=true)
