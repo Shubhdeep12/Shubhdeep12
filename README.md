@@ -6,7 +6,7 @@ I'm a Software Developer<img src="https://github.com/Shubhdeep12/Shubhdeep12/blo
 
 2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication🔥🔥🔥
 
-At present <b>Software Engineer 1</b> at <b>Auzmor</b> <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Designer.gif" width="40px" height="30px">....
+At present <b>Software Engineer III</b> at <b>Auzmor</b> <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Designer.gif" width="40px" height="30px">....
 </em>
 
 </p>
