@@ -1,48 +1,40 @@
-# Hi! Shubhdeep here <img align= "right" alt="hello" src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif?cid=ecf05e47pw1f9dy6aeirtldn5p8avyxtnn9fwdy8lsitpacy&rid=giphy.gif&ct=s" />
+# Shubhdeep Chhabra
+### I'm a Software Engineer, Freelancer, Tech Enthusiast 🚀
+<br />
 
-<p>
-<em>  
-I'm a Software Developer<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Developer.gif" width="40px" height="30px"> who acknowledges to <b>Prove</b> himself by focusing in on <b>Improving</b> himself 💪.
+- 🔥 Loves learning new technologies and building stuff.
+- 💎 Currently, Software Engineer III at Auzmor Inc.
+- 🚀 Open for new opportunities.
 
-2020 Graduate<img src="https://w7.pngwing.com/pngs/995/215/png-transparent-black-and-yellow-mortar-board-emoji-graduation-ceremony-square-academic-cap-graduate-university-toga-angle-emoticon-academic-degree.png" width="40px"> from <a href = "https://www.jecrcfoundation.com/">Jaipur Engineering College and Research Center</a> in <b>B.Tech.</b> in Electronics and Communication🔥🔥🔥
+<br />
 
-At present <b>Software Engineer III</b> at <b>Auzmor</b> <img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Designer.gif" width="40px" height="30px">....
-</em>
+### Languages and Tools 💻
+ 
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Next.js-20272B?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/StyledComponents-4E104B?style=flat&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
+![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-</p>
+<br />
 
+### Connect with me:
+![https://linktr.ee/shubhdeepchhabra?utm_source=linktree_admin_share](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
-<br>
+<br />
 
-### Technologies & Frameworks
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-<br>
-<a href="https://github.com/Shubhdeep12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhdeep12&theme=dark&hide_langs_below=1" />
-</a>
-
-<br>
-<br>
-
-# Connect with me<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Handshake.gif" height="32px">
-
-| [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shubhdeepchhabra/) | [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ShubhInTech) | [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/shubhdeep_chhabra/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Shubhdeep12) | [<img src="https://github.com/Shubhdeep12/Shubhdeep12/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:chhabrashubhdeep@gmail.com) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-<br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&theme=shades-of-purple&show_icons=true&hide_border=true)
