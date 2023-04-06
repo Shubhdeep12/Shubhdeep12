@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/StyledComponents-4E104B?style=flat&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/StyledComponents-4E105B?style=flat&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
@@ -28,13 +28,13 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
+
 <br />
 
 ### Connect with me:
 ![https://linktr.ee/shubhdeepchhabra?utm_source=linktree_admin_share](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
 <br />
-
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
 
