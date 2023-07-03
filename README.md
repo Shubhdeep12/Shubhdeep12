@@ -33,10 +33,4 @@ Know more about me at - [Shubhdeep Chhabra](https://www.shubhdeepchhabra.in)
 
 <br />
 
-### Connect with me:
-![https://linktr.ee/shubhdeepchhabra?utm_source=linktree_admin_share](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
-
-<br />
-
-
 ![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&theme=shades-of-purple&show_icons=true&hide_border=true)
