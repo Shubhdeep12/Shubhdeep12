@@ -38,6 +38,5 @@ Know more about me at - [Shubhdeep Chhabra](https://www.shubhdeepchhabra.in)
 
 <br />
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Shubhdeep12 alt=Shubhdeep12/></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&theme=shades-of-purple&show_icons=true&hide_border=true)
