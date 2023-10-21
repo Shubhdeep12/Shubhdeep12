@@ -3,7 +3,7 @@
 <br />
 
 - 🔥 Loves learning new technologies and building stuff.
-- 💎 Currently, Software Engineer at Auzmor Inc.
+- 💎 Currently, Software Engineer III at Auzmor Inc.
 - 🚀 Open for new opportunities.
 
 
