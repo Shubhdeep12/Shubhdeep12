@@ -4,7 +4,7 @@
 
 - 🔥 Loves learning new technologies and building stuff.
 - 💎 Currently, Software Engineer III at Auzmor Inc.
-- 🚀 Let's connect and chat.
+- 🚀 Open for new opportunities. Let's connect.
 
 
 Know more about me at - [Shubhdeep Chhabra](https://www.shubhdeepchhabra.in)
