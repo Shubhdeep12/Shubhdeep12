@@ -33,5 +33,5 @@ Know more about me at - [Shubhdeep Chhabra](https://www.shubhdeepchhabra.in)
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&theme=shades-of-purple&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&show_icons=true&hide_border=true)
 
