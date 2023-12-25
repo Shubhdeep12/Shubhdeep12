@@ -33,5 +33,4 @@ Know more about me at - [Shubhdeep Chhabra](https://www.shubhdeepchhabra.in)
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&show_icons=true&hide_border=true)
-
+![SHubhdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdeep12\&rank_icon=percentile)
