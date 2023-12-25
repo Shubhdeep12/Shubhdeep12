@@ -34,3 +34,5 @@ Know more about me at - [Shubhdeep Chhabra](https://www.shubhdeepchhabra.in)
 <br />
 
 ![](https://github-readme-stats.vercel.app/api?username=shubhdeep12&theme=shades-of-purple&show_icons=true&hide_border=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=shubhdeep12&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
