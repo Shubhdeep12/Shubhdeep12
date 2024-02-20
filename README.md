@@ -1,5 +1,5 @@
 # Shubhdeep Chhabra
-### I'm a Software Engineer
+### Software Engineer
 <br />
 
 - 🔥 Loves learning new technologies and building stuff.
