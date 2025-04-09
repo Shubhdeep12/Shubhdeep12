@@ -26,7 +26,7 @@ As part of my open-source work, I usually work on:
 I occasionally contribute to other projects like:
 
 - [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte)
-- [antiwork/helper](https://github.com/antiwork/helper) – Recently worked on a simple confetti feature.
+<!-- - [antiwork/helper](https://github.com/antiwork/helper) Recently worked on a simple confetti feature. -->
 - And there are others, but I won’t mention them because they’re old contributions.
 
 
