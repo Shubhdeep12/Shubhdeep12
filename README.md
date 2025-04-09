@@ -30,6 +30,7 @@ I occasionally contribute to other projects like:
 - And there are others, but I won’t mention them because they’re old contributions.
 
 
+---
 
 If you believe in building together and think I can be of help, consider supporting my work — it truly means a lot 🤝
 
