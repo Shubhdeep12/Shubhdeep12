@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%"> Hey, I'm Shubhdeep!
 
-### __I am a software engineer and open-source developer/maintainer/lover based in India.__
+### __I’m a software engineer and open-source developer/maintainer/enthusiast based in India.__
 
 This is my journey with open source so far:
 
@@ -20,14 +20,14 @@ This is my journey with open source so far:
 
 As part of my open-source work, I usually work on:
 
-- [getsentry/spotlight](https://github.com/getsentry/spotlight) – A universal debug toolbar
-- [shubhdeepchhabra.in](https://github.com/Shubhdeep12/shubhdeepchhabra.in) – My personal portfolio
+- [getsentry/spotlight](https://github.com/getsentry/spotlight) 
+- [shubhdeepchhabra.in](https://github.com/Shubhdeep12/shubhdeepchhabra.in)
 
-I occasionally contribute to other projects like:
+I love diving into projects that catch my curiosity — here are a few👇
 
 - [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte)
-<!-- - [antiwork/helper](https://github.com/antiwork/helper) Recently worked on a simple confetti feature. -->
-- And there are others, but I won’t mention them because they’re old contributions.
+- [antiwork/helper](https://github.com/antiwork/helper)
+- [formbricks/formbricks](https://github.com/formbricks/formbricks)
 
 
 ---
