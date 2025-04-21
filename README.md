@@ -30,6 +30,8 @@ I love diving into projects that catch my curiosity — here are a few👇
 - [formbricks/formbricks](https://github.com/formbricks/formbricks)
 
 
+![Shubhdeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhdeep12&theme=nightowl)
+
 ---
 
 If you believe in building together and think I can be of help, consider supporting my work — it truly means a lot 🤝
@@ -38,7 +40,6 @@ If you believe in building together and think I can be of help, consider support
 
 - [GitHub Sponsors](https://github.com/sponsors/Shubhdeep12)
 - [Buy me a coffee](https://www.buymeacoffee.com/shubhdeep)
-
 
 
 ### You can also find/connect with me on:
