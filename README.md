@@ -2,20 +2,6 @@
 
 ### __I’m a software engineer and open-source developer/maintainer/enthusiast based in India.__
 
-This is my journey with open source so far:
-
-```
-<2020         →  I used to think GitHub was just a place where people stored their personal projects.
-
-2020 - 2021   →  Discovered that people and companies also create packages to help the community.
-                 Learned about the rich text editor Quill for the first time (as far as I remember).
-
-2021 - 2023   →  Realized companies open-source their code too. Thought, "How on earth will I understand this?"
-                 Gave it a shot. Sometimes I failed, but other times I understood the code pretty well.
-
->=2024        →  Every repo is a learning opportunity – whether it’s an SDK, a component library,
-                 or a full end-to-end product. Let’s dive in and get involved 😎
-```
 
 
 As part of my open-source work, I usually work on:
