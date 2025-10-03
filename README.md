@@ -1,4 +1,7 @@
-### Connect
+
+
+
+#### Connect
 
 - [shubhdeepchhabra.in](https://shubhdeepchhabra.in)
 - [@okshubhh](https://twitter.com/okshubhh)
@@ -6,13 +9,7 @@
 - [Email](mailto:chhabrashubhdeep@gmail.com)
 
 
-## Support
+#### Support
 
 - [GitHub Sponsors](https://github.com/sponsors/Shubhdeep12)
 - [Buy me a coffee](https://www.buymeacoffee.com/shubhdeep)
-
-
-
-
-Thanks for stopping by.
-
