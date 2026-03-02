@@ -4,7 +4,7 @@
 #### Connect
 
 - [shubhdeepchhabra.in](https://shubhdeepchhabra.in)
-- [@okshubhh](https://twitter.com/okshubhh)
+- [X](https://twitter.com/okshubhh)
 - [LinkedIn](https://www.linkedin.com/in/shubhdeepchhabra)
 - [Email](mailto:chhabrashubhdeep@gmail.com)
 
