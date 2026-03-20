@@ -1,12 +1,10 @@
 
 
+<div align="center">
 
-#### Connect
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- [shubhdeepchhabra.in](https://shubhdeepchhabra.in)
-- [X](https://twitter.com/okshubhh)
-- [LinkedIn](https://www.linkedin.com/in/shubhdeepchhabra)
-- [Email](mailto:chhabrashubhdeep@gmail.com)
+</div>
 
 
 #### Support
